@@ -103,11 +103,13 @@ for (int i = 0; i < NUM_LOOPS; i++) {
 ## OUTPUT
  ./sem.o 
 
-![Alt text](<img_ex05/Screenshot at 2026-03-13 16-56-11.png>)
+<img width="432" height="565" alt="image" src="https://github.com/user-attachments/assets/8b1e116f-3d10-4c53-b263-62acd31c0e50" />
+
 
  ipcs
 
-![Alt text](<img_ex05/Screenshot at 2026-03-13 17-05-41.png>)
+<img width="518" height="138" alt="image" src="https://github.com/user-attachments/assets/954f0194-de88-4087-9d20-bf1affd0824c" />
+
 
 
 
